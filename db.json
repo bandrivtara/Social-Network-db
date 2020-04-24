@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Taras",
+      "age": "23",
+      "company": "1"
+    },
+    {
+      "id": "3",
+      "name": "Marta",
+      "age": "21",
+      "company": "3"
+    },
+    {
+      "id": "u0oavxO"
+    },
+    {
+      "name": "Ma",
+      "age": "25",
+      "company": "1",
+      "id": "TLU3W1j"
+    }
+  ],
+  "company": [
+    {
+      "id": "1",
+      "name": "Google"
+    },
+    {
+      "id": "2",
+      "name": "FB"
+    },
+    {
+      "id": "3",
+      "name": "Mototrs"
+    }
+  ]
+}
